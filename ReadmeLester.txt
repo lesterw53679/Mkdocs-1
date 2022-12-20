@@ -58,6 +58,13 @@ if 404 error its because there is a gh-pages branch that needs to get hooked up
 go to the branch click and you will see that there is a branch
 go to settings and under there you can click pages and then set the source
 
+using template file.
+
+https://github.com/c17hawke/docsTemplate
+
+go to his template, and copy it over to my repo
+
+clone it locally
 
 
 
