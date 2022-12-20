@@ -46,4 +46,19 @@ then paste the code into that
 update the python version (3.9)
 remove -master
 
+commit and push changes to github
+then go to github and look at the jobs summary under deploy
+and click on the "gh-deploy force"
+
+ * [new branch]      gh-pages -> gh-pages
+INFO     -  Your documentation should shortly be available at: https://lesterw53679.github.io/Mkdocs-1/
+
+if 404 error its because there is a gh-pages branch that needs to get hooked up
+
+go to the branch click and you will see that there is a branch
+go to settings and under there you can click pages and then set the source
+
+
+
+
 
